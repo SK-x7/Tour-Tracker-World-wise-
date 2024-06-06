@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2023-11-28T16:09:25.952Z",
+      "notes": "n",
+      "position": {
+        "lat": "38.751405857848255",
+        "lng": "-9.145953403540256"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-06-04T07:31:46.056Z",
+      "notes": "",
+      "position": {
+        "lat": "40.02025300564684",
+        "lng": "-0.046194218464812316"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Vilafames",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-06-06T10:39:47.860Z",
+      "notes": "hey",
+      "position": {
+        "lat": "40.083182392301104",
+        "lng": "-0.10814666748046876"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Costur",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-06-06T10:40:04.403Z",
+      "notes": "sk",
+      "position": {
+        "lat": "40.10064381334505",
+        "lng": "-0.1577568054199219"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Costur",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-06-06T10:40:12.359Z",
+      "notes": "heyy",
+      "position": {
+        "lat": "40.11679179097299",
+        "lng": "-0.17354965209960938"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Useras",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-06-06T10:40:23.474Z",
+      "notes": "SKKKKK",
+      "position": {
+        "lat": "40.14764305324436",
+        "lng": "-0.1723480224609375"
+      },
+      "id": 98443204
+    }
+  ]
+}
